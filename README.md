@@ -199,6 +199,6 @@ MIT License - Free to use, modify, and distribute.
 ## Support
 
 - GitHub Issues: Report bugs or request features
-- Email: hello@omkartools.example.com# omkar-all-in-one-tool
+- Email: omkarchauhan9795@gmail.com omkar-all-in-one-tool
 # omkar-all-in-one-tool
 # omkar-all-in-one-tool
